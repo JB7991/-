@@ -1,0 +1,16 @@
+[theme]
+# Haupthintergrund der App (helles Graugrün)
+backgroundColor = "#F7F8F6"
+
+# Hintergrund für Sidebar und Eingabefelder
+secondaryBackgroundColor = "#1C2B1E"
+
+# Farbe für ALLEN Text in der App – das ist der wichtigste Wert
+# Dieser Wert verhindert, dass Streamlit weissen Text setzt
+textColor = "#1A3B1E"
+
+# Farbe für Überschriften und Akzente
+primaryColor = "#2D7A40"
+
+# Schriftart (Streamlit-Standard sans-serif)
+font = "sans-serif"
